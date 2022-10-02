@@ -81,6 +81,7 @@ ol.sample1 li:hover{
 .work{
   position:absolute;
   margin-bottom:90px;
+  mergin-top:90px;
 }
 
 .work1{
@@ -88,5 +89,5 @@ ol.sample1 li:hover{
 }
 
 #work{
-  text-align:center;
+  text-align: center;
 }
