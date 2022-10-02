@@ -106,6 +106,10 @@ footer a, footer p{
   border-radious:5px;
 }
 
+.work{
+  position:absolute;
+}
+
 .work1{
-  margin-left:270px;
+  margin-left:200px;
 }
