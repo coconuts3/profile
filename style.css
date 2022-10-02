@@ -8,13 +8,6 @@ body{
   font-family: 'Noto Sans JP', sans-serif;
 }
 
-footer{
-  margin-top:50px;
-  font-family: 'Noto Sans JP', sans-serif;
-  padding:0;
-  margin:0;
-}
-
 #Profile{
   text-align: center;
   padding-top:50px;  
@@ -83,30 +76,6 @@ ol.sample1 li:before{
 }
 ol.sample1 li:hover{
   background: #8393ca;
-}
-
-footer{
-  color:#fff;
-  height:200px;
-  background-color: #2A2A2A;  
-  margin-top:70px;
-}
-
-footer a{
-  color:white;
-  float: left;
-}
-
-footer h1{
-  float:left;
-}
-
-footer *{
-  padding:30px;
-}
-
-footer a, footer p{
-  padding-top:40px;
 }
 
 .work{
