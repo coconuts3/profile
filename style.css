@@ -106,15 +106,6 @@ footer a, footer p{
   border-radious:5px;
 }
 
-.work {
-  position: relative;
-}
-
-.work p {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%,-50%);
-  -webkit-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
+.work1{
+  margin-left:270px;
 }
