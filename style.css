@@ -92,8 +92,8 @@ ol.sample1 li:hover{
 }
 
 .work-image{
-  border-radius:10%;
   border:solid;
-  border:20%;
+  border:10%;
+  border-radius:10%;
 }
   
