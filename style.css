@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
 
-*{
+footer{
   font-family: 'Noto Sans JP', sans-serif;
   padding:0;
   margin:0;
@@ -100,12 +100,6 @@ footer a, footer p{
   padding-top:40px;
 }
 
-#request-image{
-  margin-left:auto;
-  margin-right:auto;
-  border-radious:5px;
-}
-
 .work{
   position:absolute;
 }
@@ -113,3 +107,6 @@ footer a, footer p{
 .work1{
   margin-left:200px;
 }
+
+#work{
+  text-align:center;
