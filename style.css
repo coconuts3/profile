@@ -91,3 +91,10 @@ ol.sample1 li:hover{
 #work{
   text-align: center;
 }
+
+.work-image{
+  border-radious:5px;
+  border:solid;
+  border:2px;
+}
+  
